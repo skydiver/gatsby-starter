@@ -4,4 +4,8 @@
 
 ## Setup
 1. `npm install`
-2. `npm run develop`
+2. `gatsby develop`
+
+## Branches
+* `master`: minimal version
+* `semantic-ui`: Gatsby + Semantic UI
