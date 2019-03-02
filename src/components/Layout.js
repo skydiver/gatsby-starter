@@ -3,6 +3,8 @@ import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import { createGlobalStyle } from 'styled-components';
 
+import '../../.semantic/dist/semantic.min.css';
+
 const GlobalStyle = createGlobalStyle`
   * {
     box-sizing: border-box;
